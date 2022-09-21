@@ -1,28 +1,36 @@
-h4.PISH{
+h4.PISH:hover{
     font-family: "verdana",'Times New Roman', Times, serif;
     font-size: 16px;
     color:grey;
     text-align: left;
+    box-shadow: 5px 10px 15px darkslategray;
   }
-  h4.names{
+  h4.names:hover{
     font-family: Times New Roman;
     font-size: 16px;
-    color: brown;
+    color: black;
     text-align: left;
+    box-shadow: 5px 10px 20px darkgoldenrod;
   }
-  h4.NANK {
+
+  h4.NANK:hover {
     font-family: "verdana",'Times New Roman', Times, serif;
     font-size: 16px;
-    color:blueviolet;
+    color:black;
     text-align: left;
+    box-shadow: 5px 10px 20px darkolivegreen;
   }
-  h4.POOH {
+
+  h4.POOH:hover {
     font-family: verdana;
     font-size: 16px;
-    color: palegoldenrod;
+    color: black;
     text-align: left;
+    box-shadow: 5px 10px 20px darkslateblue;
   }
+
   h4.inconceivable {
+   
     text-decoration-line: overline;
     font-family: "verdana",'Times New Roman', Times, serif;
     font-size: 16px;
@@ -33,9 +41,11 @@ h4.PISH{
     text-decoration-line: overline;
     font-family: "verdana",'Times New Roman', Times, serif;
     font-size: 12px;
-    color: darkolivegreen;
+    color: black;
     text-align: left;
+
   }
+
   p.song {
     letter-spacing: 1px;
     line-height: 1.8;
@@ -47,6 +57,8 @@ h4.PISH{
     font-family: verdana;
     text-align: left;
   }
+  
+
   p.speech {
     text-shadow: 2px 2px 5px grey;
     letter-spacing: 1px;
@@ -57,7 +69,8 @@ h4.PISH{
     font-family:"serif", verdana,'Times New Roman', Times, serif;
     font-size: 14px;
     color: black;
-    text-align: left;  
+    text-align: left;
+    
   }
   p.direction:hover{
     font-family: "Times";
