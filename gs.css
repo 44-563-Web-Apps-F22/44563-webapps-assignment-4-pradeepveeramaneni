@@ -3,7 +3,7 @@ h4.PISH-TISH:hover{
     font-size: 16px;
     color:grey;
     text-align: left;
-    box-shadow: 5px 10px 15px darkslategray;
+    text-shadow: 2px 2px 5px darkslategray;
   }
   h4.names:hover{
     font-family: Times New Roman;
